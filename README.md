@@ -50,7 +50,7 @@ rideco/
 │   ├── nav.js                  ← Navigation
 │   ├── data.js                 ← Mock data
 │   ├── ui.js                   ← UI interactions
-│   └── api.js                  ← API calls (backend-ready)
+│   └── api.js                  ← API calls (connect when backend is ready)
 ├── data/
 │   ├── rides.json
 │   ├── drivers.json
