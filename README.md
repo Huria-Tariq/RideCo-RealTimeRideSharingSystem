@@ -34,6 +34,7 @@ A frontend web application for a real-time ride-sharing platform built with plai
 | Admin | Login, Dashboard, Drivers, Rides, Reports |
 
 ---
+```
 
 ## 📁 Project Structure
 rideco/
@@ -58,7 +59,7 @@ rideco/
 ├── passenger/
 ├── driver/
 └── admin/
-
+```
 ---
 
 ## 🚀 How to Run
